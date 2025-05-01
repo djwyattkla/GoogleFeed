@@ -53,5 +53,3 @@
 - Generate and host XML feed for Google Merchant Center
 
 ---
-
-Let me know if you want this converted to HTML for email or HubSpot CMS formatting too!
